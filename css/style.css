@@ -1,0 +1,443 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.header {
+  background-image: url(../drew-coffman-1872.jpg);
+  background-size: 100% 100%;
+  height: 100vh;
+  text-align: center;
+  color: #ffffff;
+}
+
+.header h3 {
+  font-size: 22px;
+  font-family: "Alegreya Sans", sans-serif;
+  margin-bottom: 20px;
+  padding-top: 250px;
+}
+
+.header p {
+  font: 24px "Alegreya Sans", sans-serif;
+  margin: 10px 0px 20px;
+}
+
+.header h1 {
+  font: 34px "Alegreya";
+  margin-bottom: 18px;
+}
+.header button {
+  color: #ffffff;
+  padding: 15px 28px;
+  font: 16px "Alegreya Sans", sans-serif;
+  border-radius: 5px;
+}
+.btn1 {
+  border: none;
+  background-color: #8e7754;
+}
+.btn2 {
+  background-color: transparent;
+  border-color: #fff;
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+.nav {
+  background-color: #fff;
+}
+
+.nav .logo {
+  width: 150px;
+  display: inline-block;
+}
+
+.nav ul {
+  display: inline-block;
+  margin-left: 50%;
+  margin-bottom: 20px;
+}
+.nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+.nav ul li a {
+  text-decoration: none;
+  color: #8e7754;
+  font: 18px "Alegreya Sans", sans-serif;
+}
+
+/* ----------------------------------------------------------------------------------------------- */
+
+.parent {
+  padding: 90px 131.091px 60px 130.909px;
+}
+
+.parent .img-child {
+  width: 50%;
+
+  display: inline-block;
+}
+.parent .img-child img {
+  width: 78%;
+  height: 100%;
+  margin-left: 10%;
+}
+
+.parent .text-child {
+  width: 50%;
+
+  display: inline-block;
+  height: auto;
+}
+.parent .text-child p {
+  color: #686868;
+  font: 17px "Alegreya Sans", sans-serif;
+  line-height: 200%;
+}
+.parent .text-child h2 {
+  color: #303030;
+  font: 32px "Alegreya Sans", sans-serif;
+  word-spacing: 2px;
+}
+
+.parent ul li {
+  padding: 15px 0px 15px 50px;
+}
+.parent ul li span {
+  font: 17px "Alegreya Sans", sans-serif;
+  color: #8e7754;
+}
+
+.parent ul li i {
+  margin-right: 10px;
+  padding: 20px;
+  border: 3px;
+  border-color: #1d0858;
+  color: #8e7754;
+}
+/* ---------------------------------------------------------------------------------------- */
+.parent-2 {
+  padding: 90px 131.091px 60px 130.909px;
+  background-color: #f8f8f8;
+}
+
+.parent-2 .img-child {
+  width: 50%;
+
+  display: inline-block;
+}
+.parent-2 .img-child img {
+  width: 78%;
+  height: 100%;
+  margin-left: 10%;
+}
+
+.parent-2 .text-child {
+  width: 50%;
+
+  display: inline-block;
+  height: auto;
+}
+.parent-2 .text-child .coco {
+  color: #686868;
+  font: 17px "Alegreya Sans", sans-serif;
+  line-height: 200%;
+  margin: 0px 0px 100px;
+}
+.parent-2 .text-child h2 {
+  color: #303030;
+  font: 32px "Alegreya Sans", sans-serif;
+  word-spacing: 2px;
+  margin-bottom: 35px;
+}
+
+.coconut {
+  color: #686868;
+  font: 17px "Alegreya Sans", sans-serif;
+  margin-bottom: 100px;
+}
+
+/* ------------------------------------------------------------------------------------- */
+
+.our-baking {
+  margin: 0px - 15px;
+  padding: 70px 131.091px 50px 130.909px;
+}
+
+.our-baking .text-child {
+  margin: 10px 0px 60px;
+  text-align: center;
+}
+.our-baking .text-child h3 {
+  color: #303030;
+  font: 30px "Alegreya Sans", sans-serif;
+}
+.our-baking .text-child p {
+  color: #888;
+  font: 17px "Alegreya Sans", sans-serif;
+  margin: 17px 245px 0px;
+}
+.our-baking .meals {
+  margin: auto;
+}
+.our-baking .meals .meal {
+  width: 25%;
+  text-align: center;
+  display: inline-block;
+}
+.margin-second-meal {
+  margin-left: 5%;
+}
+.our-baking .meals .meal h4 {
+  font: 22px "Alegreya Sans", sans-serif;
+  color: #303030;
+  margin: 10px 0px;
+}
+.our-baking .meals .meal p {
+  color: #686868;
+  font: 17px "Alegreya Sans", sans-serif;
+  line-height: 200%;
+}
+
+.margin-left {
+  margin-left: 10%;
+}
+.our-baking .meals .meal img {
+  width: 100%;
+}
+
+/* ------------------------------------------------------------------------------------------- */
+
+.parent-3 {
+  padding: 90px 131.091px 60px 130.909px;
+  background-color: #f8f8f8;
+}
+
+.parent-3 .img-child {
+  width: 50%;
+
+  display: inline-block;
+}
+.parent-3 .img-child img {
+  width: 70%;
+  height: 100%;
+  margin-left: 10%;
+}
+
+.parent-3 .text-child {
+  width: 50%;
+
+  display: inline-block;
+  height: auto;
+}
+.parent-3 .text-child p {
+  color: #686868;
+  font: 17px "Alegreya Sans", sans-serif;
+  line-height: 200%;
+  margin-left: 70px;
+}
+.parent-3 .text-child h2 {
+  color: #303030;
+  font: 25.5px "Alegreya Sans", sans-serif;
+  word-spacing: 2px;
+  margin-left: 70px;
+  margin-bottom: 25px;
+}
+
+.parent-3 ul li {
+  padding: 15px 0px 15px 50px;
+}
+.parent-3 ul li span {
+  font: 17px "Alegreya Sans", sans-serif;
+  color: #8e7754;
+}
+
+.parent-3 ul li i {
+  margin-right: 10px;
+  padding: 20px;
+  border: 3px;
+  border-color: #1d0858;
+  border-radius: 50%;
+  color: #fff;
+  background-color: #8e7754;
+}
+
+/* ---------------------------------------------------------------------------------------------------- */
+
+.footer {
+  background-color: #353330;
+  color: #797979;
+  padding: 50px 0px 40px;
+  font: 14px "Alegreya Sans", sans-serif;
+  text-align: center;
+}
+.footer p {
+  color: #777777;
+  font: 15px "Alegreya Sans", sans-serif;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.social {
+  margin: auto;
+  padding: 20px 0px;
+}
+.social i {
+  margin-left: 25px;
+  padding: 20px;
+  background-color: #494641;
+  border-radius: 50%;
+  font-size: 19px;
+}
+.social .face:hover {
+  background-color: #4064ac;
+  transition: 0.5s ease-out 0.1s;
+}
+
+.social .ginga:hover {
+  background-color: #d54836;
+  transition: 0.5s ease-out 0.1s;
+}
+.social .linkid:hover {
+  background-color: #0e72a3;
+  transition: 0.5s ease-out 0.1s;
+}
+.social .twi:hover {
+  background-color: #1a98e8;
+  transition: 0.5s ease-out 0.1s;
+}
+
+
+ /* ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --> */
+
+
+
+.parent-4 {
+  color: #969696;
+  background-color: #403D38;
+  padding: 60px 0px 52px;
+  font: 16px "Alegreya Sans", sans-serif;
+}
+.parent-4 .row{
+  width: 80%;
+  margin: auto;
+}
+.parent-4 .row .col{
+  width: 19%;
+  float: left;
+  padding: 0px 15.9375px;
+}
+.parent-4 .row .col h4{
+  color: #FFF;
+  font: 18px "Alegreya Sans", sans-serif;
+  margin: 0px 0px 25px;
+}
+.parent-4 .row .col p{
+  color: #969696;
+  font: 16px "Alegreya Sans", sans-serif;
+  margin: 0px 0px 20px;
+  line-height: 200%;
+}
+
+
+.parent-4 .row .col-2{
+  width: 19%;
+  float: left;
+  padding: 0px 15.9375px;
+}
+.parent-4 .row .col-2 h4{
+  color: #FFF;
+  font: 18px "Alegreya Sans", sans-serif;
+  margin: 0px 0px 25px;
+}
+.parent-4 .row .col-2 ul li {
+  color: #969696;
+  font: 16px "Alegreya Sans", sans-serif;
+  margin: 0px 0px 15px;
+  padding: 0px 0px 13px;
+  border-bottom: 2px #494641 solid;
+
+}
+
+.parent-4 .row .col-2 ul li i{
+  color: #ffffff5d;
+  margin-right: 15px;
+
+}
+
+
+
+
+.parent-4 .row .col-3{
+  background-image: url(../World_Map.svg.png);
+  background-size: 100% 100%;
+
+  width: 19%;
+  float: left;
+  padding: 0px 15.9375px;
+}
+.parent-4 .row .col-3 h4{
+  color: #FFF;
+  font: 18px "Alegreya Sans", sans-serif;
+  margin: 0px 0px 25px;
+}
+.parent-4 .row .col-3 ul li {
+  color: #969696;
+  font: 16px "Alegreya Sans", sans-serif;
+  margin: 0px 0px 15px;
+  padding: 0px 0px 13px;
+  border-bottom: 2px #494641 solid;
+
+}
+
+.parent-4 .row .col-3 ul li i{
+  color: #ffffff5d;
+  margin-right: 15px;
+
+}
+
+.border-non{
+  border-bottom:none ;
+}
+
+
+
+
+
+
+
+
+
+
+.clear-fix{
+  clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
